@@ -1,1 +1,0 @@
-# Charte de la CIVILITÉ
