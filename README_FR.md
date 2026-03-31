@@ -11,7 +11,7 @@ Ce document est publié de manière ouverte afin d’assurer la transparence, l�
 
 ## Citation
 
-La Fondation Civile. La Charte de la Civilité. DOI: 10.5281/zenodo.18445877
+La Fondation Civile. La Charte de la Civilité. DOI: 10.5281/zenodo.19362098
 
 ## Site Web
 
